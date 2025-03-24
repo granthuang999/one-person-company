@@ -1,4 +1,4 @@
-![One Person Company AI Tools](./assets/banner.jpg)
+![One Person Company AI Tools](./assets/banner.jpg){width=800px}
 
 <div align="center">
 
