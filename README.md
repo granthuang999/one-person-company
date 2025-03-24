@@ -1,6 +1,6 @@
-![One Person Company AI Tools](./assets/banner.jpg)
-
 <div align="center">
+
+![One Person Company AI Tools](./assets/banner.jpg)
 
 [![GitHub stars](https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/network)
