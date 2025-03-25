@@ -16,7 +16,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/pulls)
 [![GitHub license](https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE)
 
-[![English Version](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
+[![English Version](https://img.shields.io/badge/English-README-orange?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
 
 </div>
 

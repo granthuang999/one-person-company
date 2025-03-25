@@ -14,7 +14,8 @@ Please star 🌟, bookmark, and share!
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/pulls)
 [![GitHub license](https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE)
 
-[![English Version](https://img.shields.io/badge/Chinese-Version-blue?style=for-the-badge&logo=markdown&logoColor=white)](./README.md)
+[![English Version](https://img.shields.io/badge/简体中文-README-orange?style=for-the-badge&logo=markdown&logoColor=white)](./README.md)
+
 </div>
 
 <br>
