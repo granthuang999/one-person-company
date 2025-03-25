@@ -2,11 +2,13 @@
 
 ![One Person Company AI Tools](./assets/one-person-company.jpg)
 
-A curated collection of AI tools for one-person companies - some are gems, others are pitfalls
+<h1>One Person Company</h1>
 
-This repo helps you avoid the traps and find the real treasures 🤩
+A collection of AI tools for one-person company
 
-Please star 🌟, bookmark, and share!
+It helps you avoid the traps and find the real treasures 🤩
+
+Star the repo ⭐ and hold your beer 🍺
 
 [![GitHub stars](https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/network)

@@ -2,7 +2,7 @@
 
 ![One Person Company AI Tools](./assets/one-person-company-cn.jpg)
 
-<h1>One Person Company</h1>
+<h1>一人公司</h1>
 
 一人公司 AI 工具系列，有些工具是宝，有些公司是坑
 
