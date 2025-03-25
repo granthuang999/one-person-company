@@ -2,13 +2,21 @@
 
 ![One Person Company AI Tools](./assets/one-person-company-cn.jpg)
 
+<h1>One Person Company</h1>
+
+一人公司 AI 工具系列，有些工具是宝，有些公司是坑
+
+本 Repo 致力于帮您踩坑，精准找宝 🤩
+
+欢迎点🌟，收藏，转发
+
 [![GitHub stars](https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/network)
 [![GitHub issues](https://img.shields.io/github/issues/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/pulls)
 [![GitHub license](https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE)
 
-[![Chinese Version](https://img.shields.io/badge/English-Version-blue?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
+[![English Version](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
 
 </div>
 
