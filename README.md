@@ -1,6 +1,6 @@
 <div align="center">
 
-![One Person Company AI Tools](./assets/banner.jpg)
+![One Person Company AI Tools](./assets/321.jpg)
 
 [![GitHub stars](https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/network)
@@ -8,7 +8,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/pulls)
 [![GitHub license](https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE)
 
-[![English Version](https://img.shields.io/badge/English-Version-blue?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
+[![Chinese Version](https://img.shields.io/badge/English-Version-blue?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
 
 </div>
 
