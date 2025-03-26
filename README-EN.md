@@ -1,6 +1,6 @@
 <div align="center">
 
-![One Person Company AI Tools](./assets/one-person-company.jpg)
+![One Person Company AI Tools](./assets/banner.gif)
 
 <h1>One Person Company</h1>
 
