@@ -4,19 +4,19 @@
 
 <h1>One Person Company</h1>
 
-A collection of AI tools for one-person company
+A curated collection of AI tools for solo entrepreneurs - some are gems, some are not worth your time.
 
-It helps you avoid the traps and find the real treasures 🤩
+This repo helps you find the gems and avoid the pitfalls 🤩
 
-Star the repo ⭐ and hold your beer 🍺
+Please 🌟 Star | 🔖 Bookmark | 🫰 Share
 
-[![GitHub stars](https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/network)
-[![GitHub issues](https://img.shields.io/github/issues/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/pulls)
-[![GitHub license](https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE)
+[![GitHub stars][star-shield]][star-link]
+[![GitHub forks][fork-shield]][fork-link]
+[![GitHub issues][issue-shield]][issue-link]
+[![GitHub pull requests][pr-shield]][pr-link]
+[![GitHub license][license-shield]][license-link]
 
-[![English Version](https://img.shields.io/badge/简体中文-README-orange?style=for-the-badge&logo=markdown&logoColor=white)](./README.md)
+[![中文版本][cn-shield]][cn-link]
 
 </div>
 
@@ -25,96 +25,258 @@ Star the repo ⭐ and hold your beer 🍺
 <details open>
   <summary><kbd>Table of Contents</kbd></summary>
 
-#### Table of Contents
-
 - [🌟 Part 1: Essential Daily Tools](#-part-1-essential-daily-tools)
-  - [🤖 AI Chat](#-ai-chat)
-  - [🎨 Media Creation](#-media-creation)
-  - [🎯 UI Design](#-ui-design)
-  - [💻 IDE](#-ide)
-  - [📟 Command Line](#-command-line)
-  - [🌐 Browser](#-browser)
-  - [🎥 Video Recording](#-video-recording)
-  - [📊 Flowcharts](#-flowcharts)
-  - [🎨 Banner](#-banner)
-  - [📐 Architecture Diagrams](#-architecture-diagrams)
-  - [🌐 SAAS Website Building](#-saas-website-building)
-- [🚀 Part 2: One-Click Website/App Generation](#-part-2-one-click-websiteapp-generation)
-  - [📊 Platform Comparison](#platform-comparison)
-- [🛠 Part 3: Daily Tools](#-part-3-daily-tools)
-  - [⚙️ System Enhancement](#system-enhancement)
-  - [🎥 Media Tools](#media-tools)
-  - [⚡ Productivity Tools](#productivity-tools)
-
-####
-
-<br/>
+  - [AI Chat](#ai-chat)
+  - [Media Creation](#media-creation)
+  - [IDE](#ide)
+  - [Command Line](#command-line)
+  - [Browser](#browser)
+- [🎨 Part 2: Design Tools Collection](#-part-2-design-tools-collection)
+  - [All-in-One Design](#all-in-one-design)
+  - [Marketing Design](#marketing-design)
+  - [Website Design](#website-design)
+  - [Logo Design](#logo-design)
+  - [3D Design](#3d-design)
+  - [Motion Design](#motion-design)
+  - [Workflow Design](#workflow-design)
+- [🚀 Part 3: One-Click Website/App Generation](#-part-3-one-click-websiteapp-generation)
+- [🛠 Part 4: Productivity Tools](#-part-4-productivity-tools)
+  - [System Enhancement](#system-enhancement)
+  - [Media Tools](#media-tools)
+  - [Efficiency Tools](#efficiency-tools)
 
 </details>
 
-## 🏢 One Person Company - AI Tools Collection
+<br>
 
-### 🌟 Part 1: Essential Daily Tools
+## 🌟 Part 1: Essential Daily Tools
 
-| Category | Tool | Pricing |
-|----------|------|---------|
-| 🤖 AI Chat | [Grok.com](http://Grok.com) | Free tier |
-| 🎨 Media Creation | [KlingAI.com](http://klingai.com) | Free tier |
-| 🎯 UI Design | [Relume.io](http://Relume.io) | Free trial |
-| 💻 IDE | [TRAE.ai](http://TRAE.ai) + [Cursor.com](http://Cursor.com) | Free until 3.7 + Free |
-| 📟 Command Line | [Warp.dev](http://warp.dev) | Free |
-| 🌐 Browser | [Deta.Surf](http://deta.Surf) | Beta, free until 3.7 |
-| 🎥 Video Recording | [CapCut](https://www.capcut.cn/) | Free |
-| 📊 Flowcharts | [Napkin.ai](http://Napkin.ai) | Free |
-| 🎨 Banner | [Canva.com](http://Canva.com) | Free tier |
-| 📐 Architecture | [Excalidraw.com](http://Excalidraw.com) | Free |
-| 🌐 SAAS Building | [Webflow.com](http://Webflow.com) + [Framer.com](http://framer.com) | Free templates |
+- 🤖 **AI Chat**
+  - [Grok][grok-link]
+  - Powerful AI conversation capabilities
+  - Free tier available
 
-<br/>
+- 🎨 **Media Creation**
+  - [KlingAI][kling-link] 
+  - AI-driven creative tool
+  - Free tier available
 
-### 🚀 Part 2: One-Click Website/App Generation
+- 💻 **IDE**
+  - [TRAE][trae-link] + [Cursor][cursor-link]
+  - AI-assisted development
+  - Free until 3.7 + Free
 
-### Platform Comparison
+- 📟 **Command Line**
+  - [Warp][warp-link]
+  - Modern terminal
+  - Free
 
-| Platform | Time | Features | Demo |
-|----------|------|----------|------|
-| [v0.dev](http://v0.dev) | ~2min | Fastest, no watermark | [Example](http://v0-saa-s-landing-page-zucn5j.vercel.app) |
-| [lovable.dev](http://lovable.dev) | ~3min | Best looking | [Example](http://fab-landing-magic.lovable.app) |
-| [bolt.new](http://bolt.new) | ~3min | Good UX, no watermark | [Example](http://frabjous-liger-0a7f6a.netlify.app) |
-| [heyboss.xyz](http://heyboss.xyz) | ~12min | $10 free credit | [Example](http://4debce98.heyboss.tech/f28ae845) |
-| [replit.com](http://replit.com) | ~4min | Card required, $25/month credit | - |
+- 🌐 **Browser**
+  - [Deta.Surf][deta-link]
+  - AI-powered browser
+  - Free beta access
 
-<br/>
+<br>
 
-### 🛠 Part 3: Daily Tools (Mac & Windows)
+![](./assets/hr-line.png)
 
-#### System Enhancement
-- 🔍 **[Raycast](http://raycast.com)** - Spotlight replacement, all-in-one search tool (Free tier)
-- 🪟 **[Rectangle](http://rectangleapp.com)** - Window management tool (Free)
-- ⌨️ **[Karabiner-Elements](http://karabiner-elements.pqrs.org)** - Keyboard customization tool (Open source)
-- 🔧 **[Ice](http://github.com/jordanbaird/Ice)** - System toolbar customization (Open source)
+<br>
 
-#### Media Tools
-- 📸 **[PixPin](https://pixpin.cn)** - All-in-one screenshot tool (Windows, Free)
-  - Supports scrolling screenshots, GIF recording, OCR
-  - Screen pinning feature for reference
+## 🎨 Part 2: Design Tools Collection
+
+### All-in-One Design
+- 🎨 **[Recraft.ai][recraft-link]** - AI-powered design platform
+  - ✨ 100 free generations daily
+  - 🎯 Supports Logo, Images, MockUps, Banners
+  - 🔄 Templates and style customization
+  - 🎁 [Get extra benefits][recraft-invite-link]
+
+### Marketing Design
+- 📱 **[Canva][canva-link]** - All-in-one design platform
+  - 📊 Docs, whiteboards, social media, video
+  - 🎨 Vast template library
+  - 💳 30-day free trial with card
+
+### Website Design
+- 🌐 **[Relume][relume-link]** - AI website generator
+  - 🚀 One-prompt website generation
+  - 🔗 Seamless Figma integration
+  - 💳 30-day free trial with card
+
+### Logo Design
+| Platform | Features | Pricing |
+|:--------:|:--------:|:-------:|
+| [Fiverr][fiverr-link] | Professional platform | Paid |
+| [Design.com][design-link] | AI generation | Free trial |
+| [AILogoGenerator][ailogo-link] | Quick & simple | Free |
+| [LogoMakr][logomakr-link] | High customization | Free |
+| [LogoPony][logopony-link] | Multiple styles | Free trial |
+| [Looka][looka-link] | Brand kit | Free trial |
+
+### 3D Design
+- 🎮 **[Blender][blender-link]** - Professional 3D software
+  - 🆓 Completely free & open source
+  - 🤖 AI control support
+  - 🔧 [MCP controller][blender-mcp-link]
+
+- 🎨 **[Spline][spline-link]** - Lightweight 3D design
+  - ✨ Free community templates
+  - 📱 Web-based design
+  - 🚀 Easy to learn
+
+### Motion Design
+- 🎬 **[Jitter][jitter-link]** - Motion design tool
+  - 🎯 Hero animation focus
+  - ⚡ User-friendly
+  - 🆓 Sufficient free tier
+
+- 🎥 **[HailuoAI][hailuo-link]** - AI motion generation
+  - 🎨 Multiple motion effects
+  - 📱 Social media optimized
+  - 🆓 Sufficient free tier
+
+- 🎨 **[KlingAI][kling-link]** - Creative motion tool
+  - 🤖 AI-driven conversion
+  - 🎯 Social media optimization
+  - 🆓 Sufficient free tier
+
+### Workflow Design
+- 📊 **[Overflow][overflow-link]** - Workflow design
+  - 🎨 Beautiful interface
+  - 📱 Interactive presentation
+  - 🆓 Free download
+
+<br>
+
+![](./assets/hr-line.png)
+
+<br>
+
+## 🚀 Part 3: One-Click Website/App Generation
+
+Testing prompt: "Create a beautiful SAAS landing page"
+
+| Platform | Time | Features | Price | Demo |
+|:--------:|:----:|:--------:|:-----:|:----:|
+| [v0.dev][v0-link] | 2min | Fastest, no watermark | Free | [View][v0-demo-link] |
+| [lovable][lovable-link] | 3min | Best looking | Free | [View][lovable-demo-link] |
+| [bolt.new][bolt-link] | 3min | Great UX | Free | [View][bolt-demo-link] |
+| [heyboss][heyboss-link] | 12min | $10 credit | Free | [View][heyboss-demo-link] |
+| [replit][replit-link] | 4min | $25/mo credit | Card required | - |
+
+<br>
+
+![](./assets/hr-line.png)
+
+<br>
+
+## 🛠 Part 4: Productivity Tools
+
+### System Enhancement
+- 🔍 **[Raycast][raycast-link]** - Productivity launcher (Free)
+- 🪟 **[Rectangle][rectangle-link]** - Window management (Free)
+- ⌨️ **[Karabiner][karabiner-link]** - Keyboard customization (Open source)
+- 🔧 **[Ice][ice-link]** - Toolbar enhancement (Open source)
+
+### Media Tools
+- 📸 **[PixPin][pixpin-link]** - All-in-one screenshot (Free)
+  - Long screenshots, GIF, OCR
+  - Screen pinning for reference
   - Rich annotation tools
-- 🎥 **[MotionShot](https://www.motionshot.io)** - Interactive demo recording tool
-  - Professional product demos and tutorials
-  - Interactive hotspot annotations
-  - Pricing: $7/month or $140 lifetime
-- 📸 **[Snipaste](http://snipaste.com)** - Screenshot tool (Free)
-- 🎬 **[Kap](http://getkap.co)** - GIF recording tool (Open source)
-- ⌨️ **[KeyCastr](http://github.com/keycastr/keycastr)** - Keystroke visualizer (Open source)
-- 🎥 **[OBS](http://obsproject.com)** - Professional screen recording (Open source)
-- 📺 **[IINA](http://iina.io)** - Modern media player (Open source)
-- ⬇️ **[Downie](http://software.charliemonroe.net/downie)** - Video downloader (Free trial)
 
-#### Productivity Tools
-- 📟 **[Warp](http://warp.dev)** - AI-powered terminal (Free tier)
-- 📋 **[Pastebot](http://tapbots.com/pastebot)** - Clipboard manager ($13 lifetime)
-- 🔍 **[CleanShot](http://cleanshot.com)** - Advanced screenshot tool ($8/month, $29 lifetime)
-- 🎁 **[Setapp](http://setapp.com)** - Software subscription bundle ($10/month)
+- 🎥 **[MotionShot][motionshot-link]** - Demo recording
+  - Professional presentations
+  - Interactive annotations
+  - $7/mo or $140 lifetime
 
----
+- 🎬 **Other Recommended Tools**
+  - [Snipaste][snipaste-link] - Screenshots (Free)
+  - [Kap][kap-link] - GIF recording (Open source)
+  - [KeyCastr][keycastr-link] - Key visualization (Open source)
+  - [OBS][obs-link] - Professional recording (Open source)
+  - [IINA][iina-link] - Media player (Open source)
+  - [Downie][downie-link] - Video download (Trial)
+
+### Efficiency Tools
+- 📟 **[Warp][warp-link]** - AI terminal (Free tier)
+- 📋 **[Pastebot][pastebot-link]** - Clipboard ($13 lifetime)
+- 🔍 **[CleanShot][cleanshot-link]** - Screenshots ($29 lifetime)
+- 🎁 **[Setapp][setapp-link]** - Software bundle ($10/mo)
+
+<br>
+
+![](./assets/hr-line.png)
+
 *Note: All pricing and feature information is for reference only. Please check official websites for the latest details.*
+
+<!-- Shields -->
+[star-shield]: https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[star-link]: https://github.com/cyfyifanchen/one-person-company/stargazers
+[fork-shield]: https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[fork-link]: https://github.com/cyfyifanchen/one-person-company/network
+[issue-shield]: https://img.shields.io/github/issues/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[issue-link]: https://github.com/cyfyifanchen/one-person-company/issues
+[pr-shield]: https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[pr-link]: https://github.com/cyfyifanchen/one-person-company/pulls
+[license-shield]: https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[license-link]: https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE
+[cn-shield]: https://img.shields.io/badge/中文-README-orange?style=for-the-badge&logo=markdown&logoColor=white
+[cn-link]: ./README.md
+
+<!-- Tool Links -->
+[grok-link]: http://Grok.com
+[kling-link]: http://klingai.com
+[relume-link]: http://Relume.io
+[trae-link]: http://TRAE.ai
+[cursor-link]: http://Cursor.com
+[warp-link]: http://warp.dev
+[deta-link]: http://deta.Surf
+[capcut-link]: https://www.capcut.cn/
+[napkin-link]: http://Napkin.ai
+[canva-link]: http://Canva.com
+[excalidraw-link]: http://Excalidraw.com
+[webflow-link]: http://Webflow.com
+[framer-link]: http://framer.com
+
+<!-- Website Generator Links -->
+[v0-link]: http://v0.dev
+[v0-demo-link]: http://v0-saa-s-landing-page-zucn5j.vercel.app
+[lovable-link]: http://lovable.dev
+[lovable-demo-link]: http://fab-landing-magic.lovable.app
+[bolt-link]: http://bolt.new
+[bolt-demo-link]: http://frabjous-liger-0a7f6a.netlify.app
+[heyboss-link]: http://heyboss.xyz
+[heyboss-demo-link]: http://4debce98.heyboss.tech/f28ae845
+[replit-link]: http://replit.com
+
+<!-- Daily Tools Links -->
+[raycast-link]: http://raycast.com
+[rectangle-link]: http://rectangleapp.com
+[karabiner-link]: http://karabiner-elements.pqrs.org
+[ice-link]: http://github.com/jordanbaird/Ice
+[pixpin-link]: https://pixpin.cn
+[motionshot-link]: https://www.motionshot.io
+[snipaste-link]: http://snipaste.com
+[kap-link]: http://getkap.co
+[keycastr-link]: http://github.com/keycastr/keycastr
+[obs-link]: http://obsproject.com
+[iina-link]: http://iina.io
+[downie-link]: http://software.charliemonroe.net/downie
+[pastebot-link]: http://tapbots.com/pastebot
+[cleanshot-link]: http://cleanshot.com
+[setapp-link]: http://setapp.com
+
+<!-- Design Tool Links -->
+[recraft-link]: http://recraft.ai
+[recraft-invite-link]: http://recraft.ai/invite/YB1Vrv0YOG
+[design-link]: http://design.com/ai-logo-generator
+[ailogo-link]: http://ailogogenerator.net
+[logomakr-link]: http://logomakr.com
+[logopony-link]: http://logopony.com
+[looka-link]: http://looka.com
+[blender-link]: http://blender.org
+[spline-link]: http://spline.design
+[jitter-link]: http://jitter.video
+[hailuo-link]: http://hailuoai.com/video
+[overflow-link]: http://overflow.io
+[fiverr-link]: https://www.fiverr.com/categories/graphics-design/creative-logo-design

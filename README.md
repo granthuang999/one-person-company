@@ -1,6 +1,6 @@
 <div align="center">
 
-![One Person Company AI Tools](./assets/banner.gif)
+![One Person Company AI Tools](./assets/banner-ghibli-2.jpg)
 
 <h1>一人公司</h1>
 
