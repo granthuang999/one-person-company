@@ -85,7 +85,7 @@
 
 ## 🚀 第二弹：一键生成网站/App/游戏
 
-并部署上线
+同一个提示词，「创建一个好看的 SAAS 落地页」，测试了各家情况，并部署上线
 
 | 平台 | 耗时 | 特点 | 价格 | 演示 |
 |:----:|:----:|:----:|:----:|:----:|
@@ -280,3 +280,4 @@
 [jitter-link]: http://jitter.video
 [hailuo-link]: http://hailuoai.com/video
 [overflow-link]: http://overflow.io
+[fiverr-link]: https://www.fiverr.com/categories/graphics-design/creative-logo-design
