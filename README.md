@@ -8,114 +8,275 @@
 
 本 Repo 致力于帮您踩坑，精准找宝 🤩
 
-欢迎点🌟，收藏，转发
+欢迎点🌟 | 收藏🔖 | 转发🫰
 
-[![GitHub stars](https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/network)
-[![GitHub issues](https://img.shields.io/github/issues/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/pulls)
-[![GitHub license](https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500)](https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE)
+[![GitHub stars][star-shield]][star-link]
+[![GitHub forks][fork-shield]][fork-link]
+[![GitHub issues][issue-shield]][issue-link]
+[![GitHub pull requests][pr-shield]][pr-link]
+[![GitHub license][license-shield]][license-link]
 
-[![English Version](https://img.shields.io/badge/English-README-orange?style=for-the-badge&logo=markdown&logoColor=white)](./README-EN.md)
+[![English Version][en-shield]][en-link]
 
 </div>
 
 <br>
 
 <details open>
-  <summary><kbd>Table of Contents</kbd></summary>
-
-#### Table of Contents
+  <summary><kbd>目录</kbd></summary>
 
 - [🌟 第一弹：日常必备工具](#-第一弹日常必备工具)
-  - [🤖 AI 对话](#-ai-对话)
-  - [🎨 图文视频](#-图文视频)
-  - [🎯 设计 UI](#-设计-ui)
-  - [💻 IDE](#-ide)
-  - [📟 命令行](#-命令行)
-  - [🌐 浏览器](#-浏览器)
-  - [🎥 视频录制](#-视频录制)
-  - [📊 流程图](#-流程图)
-  - [🎨 Banner](#-banner)
-  - [📐 架构图](#-架构图)
-  - [🌐 SAAS 建站](#-saas-建站)
-- [🚀 第二弹：一键生成网站/App](#-第二弹一键生成网站app)
-  - [📊 各平台对比](#各平台对比)
-- [🛠 第三弹：日常工具篇](#-第三弹日常工具篇-mac--windows)
-  - [⚙️ 系统增强](#系统增强)
-  - [🎥 媒体工具](#媒体工具)
-  - [⚡ 效率工具](#效率工具)
-
-####
-
-<br/>
+  - [AI 对话](#ai-对话)
+  - [图文视频](#图文视频)
+  - [IDE](#ide)
+  - [命令行](#命令行)
+  - [浏览器](#浏览器)
+- [🚀 第二弹：一键生成网站/App](#-第三弹一键生成网站app)
+- [🛠 第三弹：日常工具篇](#-第四弹日常工具篇)
+  - [系统增强](#系统增强)
+  - [媒体工具](#媒体工具)
+  - [效率工具](#效率工具)
+- [🎨 第四弹：设计工具集合](#-第二弹设计工具集合)
+  - [全能设计](#全能设计)
+  - [运营设计](#运营设计)
+  - [网站设计](#网站设计)
+  - [Logo 设计](#logo-设计)
+  - [3D 设计](#3d-设计)
+  - [动态设计](#动态设计)
+  - [工作流设计](#工作流设计)
 
 </details>
 
-## 🏢 One Person Company - AI 工具集合
+<br>
+
+## 🌟 第一弹：日常必备工具
+
+- 🤖 **AI 对话**
+  - [Grok][grok-link]
+  - 强大的 AI 对话能力
+  - 免费额度
+
+- 🎨 **图文视频**
+  - [KlingAI][kling-link] 
+  - AI 驱动的创意工具
+  - 免费额度
+
+- 💻 **IDE**
+  - [TRAE][trae-link] + [Cursor][cursor-link]
+  - AI 辅助开发
+  - 3.7免费用+免费
+
+- 📟 **命令行**
+  - [Warp][warp-link]
+  - 现代化终端
+  - 免费
+
+- 🌐 **浏览器**
+  - [Deta.Surf][deta-link]
+  - AI 驱动浏览器
+  - 内测免费
 
 
-### 🌟 第一弹：日常必备工具
+<br>
 
-| 类别 | 工具 | 价格策略 |
-|------|------|----------|
-| 🤖 AI 对话 | [Grok.com](http://Grok.com) | 免费额度 |
-| 🎨 图文视频 | [KlingAI.com](http://klingai.com) | 免费额度 |
-| 🎯 设计 UI | [Relume.io](http://Relume.io) | 免费试用 |
-| 💻 IDE | [TRAE.ai](http://TRAE.ai) + [Cursor.com](http://Cursor.com) | 3.7 免费用 + 免费 |
-| 📟 命令行 | [Warp.dev](http://warp.dev) | 免费 |
-| 🌐 浏览器 | [Deta.Surf](http://deta.Surf) | 内测中 3.7 免费用 |
-| 🎥 视频录制 | [ 剪映 ](https://www.capcut.cn/) | 免费 |
-| 📊 流程图 | [Napkin.ai](http://Napkin.ai) | 免费 |
-| 🎨 Banner | [Canva.com](http://Canva.com) | 免费额度 |
-| 📐 架构图 | [Excalidraw.com](http://Excalidraw.com) | 免费 |
-| 🌐 SAAS 建站 | [Webflow.com](http://Webflow.com) + [Framer.com](http://framer.com) | 免费模板 |
+![](./assets/hr-line.png)
 
-<br/>
+<br>
 
-### 🚀 第二弹：一键生成网站/App
+## 🚀 第二弹：一键生成网站/App/游戏
 
-### 各平台对比
+并部署上线
 
-| 平台 | 耗时 | 特点 | 演示地址 |
-|------|------|------|----------|
-| [v0.dev](http://v0.dev) | ~2分钟 | 最快无水印 | [示例](http://v0-saa-s-landing-page-zucn5j.vercel.app) |
-| [lovable.dev](http://lovable.dev) | ~3分钟 | 最好看 | [示例](http://fab-landing-magic.lovable.app) |
-| [bolt.new](http://bolt.new) | ~3分钟 | 体验好无水印 | [示例](http://frabjous-liger-0a7f6a.netlify.app) |
-| [heyboss.xyz](http://heyboss.xyz) | ~12分钟 | 送10美元额度 | [示例](http://4debce98.heyboss.tech/f28ae845) |
-| [replit.com](http://replit.com) | ~4分钟 | 需绑卡，25美元/月额度 | - |
+| 平台 | 耗时 | 特点 | 价格 | 演示 |
+|:----:|:----:|:----:|:----:|:----:|
+| [v0.dev][v0-link] | 2分钟 | 最快无水印 | 免费 | [查看][v0-demo-link] |
+| [lovable][lovable-link] | 3分钟 | 最好看 | 免费 | [查看][lovable-demo-link] |
+| [bolt.new][bolt-link] | 3分钟 | 体验好 | 免费 | [查看][bolt-demo-link] |
+| [heyboss][heyboss-link] | 12分钟 | 送$10 | 免费 | [查看][heyboss-demo-link] |
+| [replit][replit-link] | 4分钟 | $25/月额度 | 需绑卡 | - |
 
-<br/>
+<br>
 
-### 🛠 第三弹：日常工具篇 (Mac & Windows)
+![](./assets/hr-line.png)
 
-#### 系统增强
-- 🔍 **[Raycast](http://raycast.com)** - 替代 Spotlight，全能搜索工具（免费够用）
-- 🪟 **[Rectangle](http://rectangleapp.com)** - 窗口管理工具（免费）
-- ⌨️ **[Karabiner-Elements](http://karabiner-elements.pqrs.org)** - 键盘自定义工具（开源免费）
-- 🔧 **[Ice](http://github.com/jordanbaird/Ice)** - 系统工具栏自定义（开源免费）
+<br>
 
-#### 媒体工具
-- 📸 **[PixPin](https://pixpin.cn)** - 全能截图工具（Windows，免费）
-  - 支持长截图、GIF 录制、OCR 文字识别
-  - 屏幕贴图功能，方便参考
-  - 丰富的标注工具
-- 🎥 **[MotionShot](https://www.motionshot.io)** - 交互式演示录制工具
-  - 专业的产品演示和教程制作
-  - 支持交互热点标注
-  - 价格：$7/月 或 $140 终身授权
-- 📸 **[Snipaste](http://snipaste.com)** - 截图工具（免费）
-- 🎬 **[Kap](http://getkap.co)** - GIF 录制工具（开源免费）
-- ⌨️ **[KeyCastr](http://github.com/keycastr/keycastr)** - 按键显示工具（开源免费）
-- 🎥 **[OBS](http://obsproject.com)** - 专业录屏工具（开源免费）
-- 📺 **[IINA](http://iina.io)** - 现代视频播放器（开源免费）
-- ⬇️ **[Downie](http://software.charliemonroe.net/downie)** - 视频下载工具（免费试用）
+## 🛠 第三弹：效率提升工具
 
-#### 效率工具
-- 📟 **[Warp](http://warp.dev)** - AI 增强命令行（免费够用）
-- 📋 **[Pastebot](http://tapbots.com/pastebot)** - 剪贴板管理（13刀终身）
-- 🔍 **[CleanShot](http://cleanshot.com)** - 多功能截图工具（8刀/月，29刀终身）
-- 🎁 **[Setapp](http://setapp.com)** - 订阅制软件集合（10刀/月）
+### 系统增强
+- 🔍 **[Raycast][raycast-link]** - 效率启动器（免费）
+- 🪟 **[Rectangle][rectangle-link]** - 窗口管理（免费）
+- ⌨️ **[Karabiner][karabiner-link]** - 键盘定制（开源）
+- 🔧 **[Ice][ice-link]** - 工具栏增强（开源）
 
----
-*注：所有价格和功能信息仅供参考，请以官方网站最新信息为准。*
+### 媒体工具
+- 📸 **[PixPin][pixpin-link]** - 全能截图（免费）
+  - 支持长截图、GIF、OCR
+  - 贴图功能方便参考
+  - 丰富标注工具
+
+- 🎥 **[MotionShot][motionshot-link]** - 演示录制
+  - 专业演示制作
+  - 交互式标注
+  - $7/月或$140终身
+
+- 🎬 **其他推荐工具**
+  - [Snipaste][snipaste-link] - 截图（免费）
+  - [Kap][kap-link] - GIF录制（开源）
+  - [KeyCastr][keycastr-link] - 按键显示（开源）
+  - [OBS][obs-link] - 专业录屏（开源）
+  - [IINA][iina-link] - 视频播放器（开源）
+  - [Downie][downie-link] - 视频下载（试用）
+
+### 效率工具
+- 📟 **[Warp][warp-link]** - AI 终端（免费额度）
+- 📋 **[Pastebot][pastebot-link]** - 剪贴板（$13终身）
+- 🔍 **[CleanShot][cleanshot-link]** - 截图（$29终身）
+- 🎁 **[Setapp][setapp-link]** - 软件订阅（$10/月）
+
+<br>
+
+![](./assets/hr-line.png)
+
+<br>
+
+## 🎨 第四弹：设计工具集合
+
+### 全能设计
+- 🎨 **[Recraft.ai][recraft-link]** - AI 驱动的设计平台
+  - ✨ 每天免费 100 次生成额度
+  - 🎯 支持 Logo、图片、MockUp、Banner
+  - 🔄 提供模板和风格定制
+  - 🎁 [点击领取额外福利][recraft-invite-link]
+
+### 运营设计
+- 📱 **[Canva][canva-link]** - 全能设计平台
+  - 📊 支持文档、白板、社媒、视频等
+  - 🎨 海量模板一键修改
+  - 💳 绑卡免费 30 天
+
+### 网站设计
+- 🌐 **[Relume][relume-link]** - AI 网站生成器
+  - 🚀 一句话生成完整网站
+  - 🔗 与 Figma 无缝集成
+  - 💳 绑卡免费 30 天
+
+### Logo 设计
+| 平台 | 特点 | 价格 |
+|:----:|:----:|:----:|
+| [Fiverr][fiverr-link] | 专业设计平台 | 付费 |
+| [Design.com][design-link] | AI 生成 | 免费试用 |
+| [AILogoGenerator][ailogo-link] | 简单快速 | 免费 |
+| [LogoMakr][logomakr-link] | 自定义强 | 免费 |
+| [LogoPony][logopony-link] | 风格多样 | 免费试用 |
+| [Looka][looka-link] | 品牌套件 | 免费试用 |
+
+### 3D 设计
+- 🎮 **[Blender][blender-link]** - 专业 3D 软件
+  - 🆓 完全开源免费
+  - 🤖 支持 AI 控制
+  - 🔧 [MCP 控制器][blender-mcp-link]
+
+- 🎨 **[Spline][spline-link]** - 轻量级 3D 设计
+  - ✨ 社区免费模板
+  - 📱 支持网页端设计
+  - 🚀 快速上手
+
+### 动态设计
+- 🎬 **[Jitter][jitter-link]** - 动态设计工具
+  - 🎯 专注 Hero 动画
+  - ⚡ 简单易用
+  - 🆓 免费版够用
+
+- 🎥 **[HailuoAI][hailuo-link]** - AI 动态生成
+  - 🎨 支持多种动态效果
+  - 📱 适合社媒内容
+  - 🆓 免费版够用
+
+- 🎨 **[KlingAI][kling-link]** - 创意动态工具
+  - 🤖 AI 驱动转换
+  - 🎯 社媒优化
+  - 🆓 免费版够用
+
+### 工作流设计
+- 📊 **[Overflow][overflow-link]** - 工作流设计
+  - 🎨 界面美观
+  - 📱 支持交互展示
+  - 🆓 免费下载使用
+
+<br>
+
+![](./assets/hr-line.png)
+
+*注：价格和功能信息仅供参考，请以官方网站为准。*
+
+<!-- Shields -->
+[star-shield]: https://img.shields.io/github/stars/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[star-link]: https://github.com/cyfyifanchen/one-person-company/stargazers
+[fork-shield]: https://img.shields.io/github/forks/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[fork-link]: https://github.com/cyfyifanchen/one-person-company/network
+[issue-shield]: https://img.shields.io/github/issues/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[issue-link]: https://github.com/cyfyifanchen/one-person-company/issues
+[pr-shield]: https://img.shields.io/github/issues-pr/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[pr-link]: https://github.com/cyfyifanchen/one-person-company/pulls
+[license-shield]: https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
+[license-link]: https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE
+[en-shield]: https://img.shields.io/badge/English-README-orange?style=for-the-badge&logo=markdown&logoColor=white
+[en-link]: ./README-EN.md
+
+<!-- Tool Links -->
+[grok-link]: http://Grok.com
+[kling-link]: http://klingai.com
+[relume-link]: http://Relume.io
+[trae-link]: http://TRAE.ai
+[cursor-link]: http://Cursor.com
+[warp-link]: http://warp.dev
+[deta-link]: http://deta.Surf
+[capcut-link]: https://www.capcut.cn/
+[napkin-link]: http://Napkin.ai
+[canva-link]: http://Canva.com
+[excalidraw-link]: http://Excalidraw.com
+[webflow-link]: http://Webflow.com
+[framer-link]: http://framer.com
+
+<!-- Website Generator Links -->
+[v0-link]: http://v0.dev
+[v0-demo-link]: http://v0-saa-s-landing-page-zucn5j.vercel.app
+[lovable-link]: http://lovable.dev
+[lovable-demo-link]: http://fab-landing-magic.lovable.app
+[bolt-link]: http://bolt.new
+[bolt-demo-link]: http://frabjous-liger-0a7f6a.netlify.app
+[heyboss-link]: http://heyboss.xyz
+[heyboss-demo-link]: http://4debce98.heyboss.tech/f28ae845
+[replit-link]: http://replit.com
+
+<!-- Daily Tools Links -->
+[raycast-link]: http://raycast.com
+[rectangle-link]: http://rectangleapp.com
+[karabiner-link]: http://karabiner-elements.pqrs.org
+[ice-link]: http://github.com/jordanbaird/Ice
+[pixpin-link]: https://pixpin.cn
+[motionshot-link]: https://www.motionshot.io
+[snipaste-link]: http://snipaste.com
+[kap-link]: http://getkap.co
+[keycastr-link]: http://github.com/keycastr/keycastr
+[obs-link]: http://obsproject.com
+[iina-link]: http://iina.io
+[downie-link]: http://software.charliemonroe.net/downie
+[pastebot-link]: http://tapbots.com/pastebot
+[cleanshot-link]: http://cleanshot.com
+[setapp-link]: http://setapp.com
+
+<!-- Design Tool Links -->
+[recraft-link]: http://recraft.ai
+[recraft-invite-link]: http://recraft.ai/invite/YB1Vrv0YOG
+[design-link]: http://design.com/ai-logo-generator
+[ailogo-link]: http://ailogogenerator.net
+[logomakr-link]: http://logomakr.com
+[logopony-link]: http://logopony.com
+[looka-link]: http://looka.com
+[blender-link]: http://blender.org
+[spline-link]: http://spline.design
+[jitter-link]: http://jitter.video
+[hailuo-link]: http://hailuoai.com/video
+[overflow-link]: http://overflow.io
