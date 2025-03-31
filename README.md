@@ -256,7 +256,7 @@
 [karabiner-link]: http://karabiner-elements.pqrs.org
 [ice-link]: http://github.com/jordanbaird/Ice
 [pixpin-link]: https://pixpin.cn
-[motionshot-link]: https://www.motionshot.io
+[motionshot-link]: https://motionshot.app
 [snipaste-link]: http://snipaste.com
 [kap-link]: http://getkap.co
 [keycastr-link]: http://github.com/keycastr/keycastr
