@@ -78,7 +78,7 @@ Please 🌟 Star | 🔖 Bookmark | 🫰 Share
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 <br>
 
@@ -148,7 +148,7 @@ Please 🌟 Star | 🔖 Bookmark | 🫰 Share
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 <br>
 
@@ -166,7 +166,7 @@ Testing prompt: "Create a beautiful SAAS landing page"
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 <br>
 
@@ -205,7 +205,7 @@ Testing prompt: "Create a beautiful SAAS landing page"
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 *Note: All pricing and feature information is for reference only. Please check official websites for the latest details.*
 
