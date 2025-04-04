@@ -4,7 +4,7 @@
 
 <h1>一人公司</h1>
 
-一人公司 AI 工具系列，有些工具是宝，有些公司是坑
+一人公司 AI 工具系列，有些工具是宝，有些工具是坑
 
 本 Repo 致力于帮您踩坑，精准找宝 🤩
 
@@ -24,6 +24,8 @@
 
 <details open>
   <summary><kbd>目录</kbd></summary>
+
+  ### 目录
 
 - [🌟 第一弹：日常必备工具](#-第一弹日常必备工具)
   - [AI 对话](#ai-对话)
@@ -79,7 +81,7 @@
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 <br>
 
@@ -97,7 +99,7 @@
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 <br>
 
@@ -136,7 +138,7 @@
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
 
 <br>
 
@@ -206,7 +208,14 @@
 
 <br>
 
-![](./assets/hr-line.png)
+![](./assets/png/hr-line.png)
+
+## 点🌟收藏
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cyfyifanchen/one-person-company&type=Date)](https://www.star-history.com/#cyfyifanchen/one-person-company&Date)
+
+
+
 
 *注：价格和功能信息仅供参考，请以官方网站为准。*
 
