@@ -146,78 +146,47 @@
 </div>
 
 ### 全能设计
-- [Recraft.ai][recraft-link]
-  - ✨ 每天免费 100 次生成额度
-  - 🎯 支持 Logo、图片、MockUp、Banner
-  - 🔄 提供模板和风格定制
-  - 🎁 [点击领取额外福利][recraft-invite-link]
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Recraft.ai][recraft-link] | 🔥🔥🔥 强烈推荐<br>支持 Logo、图片、MockUp、Banner<br>提供模板和风格定制 | 每天免费 100 次生成额度 |
 
 ### 运营设计
-- [Canva][canva-link]
-  - 📊 支持文档、白板、社媒、视频等
-  - 🎨 海量模板一键修改
-  - 💳 绑卡免费 30 天
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Canva][canva-link] | 支持文档、白板、社媒、视频等<br>海量模板一键修改 | 绑卡免费 30 天 |
 
 ### 网站设计
-- [Relume][relume-link]
-  - 🚀 一句话生成完整网站
-  - 🔗 与 Figma 无缝集成
-  - 💳 绑卡免费 30 天
-
-
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Relume][relume-link] | 一句话生成完整网站<br>与 Figma 无缝集成 | 绑卡免费 30 天 |
 
 ### 3D 设计
-- [Blender][blender-link]
-  - 🆓 完全开源免费
-  - 🤖 支持 AI 控制
-  - 🔧 [MCP 控制器][blender-mcp-link]
-
-- [Spline][spline-link]
-  - ✨ 社区免费模板
-  - 📱 支持网页端设计
-  - 🚀 快速上手
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Blender][blender-link] | 支持 AI 控制<br>[MCP 控制器][blender-mcp-link] | 完全开源免费 |
+| [Spline][spline-link] | 社区免费模板<br>支持网页端设计<br>快速上手 | 免费使用 |
 
 ### 动态设计
-- [Jitter][jitter-link]
-  - 🎯 专注 Hero 动画
-  - ⚡ 简单易用
-  - 🆓 免费版够用
-
-- [HailuoAI][hailuo-link]
-  - 🎨 支持多种动态效果
-  - 📱 适合社媒内容
-  - 🆓 免费版够用
-
-- [KlingAI][kling-link]
-  - 🤖 AI 驱动转换
-  - 🎯 社媒优化
-  - 🆓 免费版够用
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Jitter][jitter-link] | 专注 Hero 动画<br>简单易用 | 免费版够用 |
+| [HailuoAI][hailuo-link] | 支持多种动态效果<br>适合社媒内容 | 免费版够用 |
+| [KlingAI][kling-link] | AI 驱动转换<br>社媒优化 | 免费版够用 |
 
 ### 工作流设计
-- [Overflow][overflow-link]
-  - 🎨 界面美观
-  - 📱 支持交互展示
-  - 🆓 免费下载使用
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Overflow][overflow-link] | 界面美观<br>支持交互展示 | 免费下载使用 |
 
 ### Logo 设计
-- [Fiverr][fiverr-link]
-  - 💼 专业设计平台
-  - 💰 付费服务
-- [Design.com][design-link]
-  - 🤖 AI 生成
-  - ✨ 免费试用
-- [AILogoGenerator][ailogo-link]
-  - ⚡ 简单快速
-  - 🆓 完全免费
-- [LogoMakr][logomakr-link]
-  - 🎨 自定义强
-  - 🆓 免费使用
-- [LogoPony][logopony-link]
-  - 🎯 风格多样
-  - ✨ 免费试用
-- [Looka][looka-link]
-  - 🎁 品牌套件
-  - ✨ 免费试用
+| 工具 | 特点 | 定价 |
+|------|------|------|
+| [Fiverr][fiverr-link] | 专业设计平台 | 付费服务 |
+| [Design.com][design-link] | AI 生成 | 免费试用 |
+| [AILogoGenerator][ailogo-link] | 简单快速 | 完全免费 |
+| [LogoMakr][logomakr-link] | 自定义强 | 免费使用 |
+| [LogoPony][logopony-link] | 风格多样 | 免费试用 |
+| [Looka][looka-link] | 品牌套件 | 免费试用 |
 
 <div align="right">
 
@@ -238,82 +207,87 @@
 
 ### 系统增强
 - [Raycast][raycast-link]
-  - 🚀 快速启动器
-  - ⌨️ 工作流自动化
-  - 🆓 基础功能免费
-
-- [Rectangle][rectangle-link]
-  - 🪟 窗口管理工具
-  - 🎯 快捷键操作
-  - 🆓 完全免费
+  - 🔥🔥🔥 强烈推荐
+  - 快速启动器
+  - 工作流自动化
+  - 基础功能免费
 
 - [Karabiner][karabiner-link]
-  - ⌨️ 键盘自定义
-  - 🛠 功能强大
-  - 📦 开源免费
+  - 🔥🔥🔥 强烈推荐
+  - 键盘自定义
+  - 功能强大
+  - 开源免费
+
+- [Rectangle][rectangle-link]
+  - 窗口管理工具
+  - 快捷键操作
+  - 完全免费
 
 - [Ice][ice-link]
-  - 🔧 工具栏增强
-  - ⚡ 轻量高效
-  - 📦 开源免费
+  - 工具栏增强
+  - 轻量高效
+  - 开源免费
 
 ### 媒体工具
+
 - [PixPin][pixpin-link]
-  - 📸 全能截图工具
-  - 🎥 支持 GIF 录制
-  - 📝 OCR 文字识别
-  - ✨ 丰富标注功能
-
-- [MotionShot][motionshot-link]
-  - 🎬 专业演示录制
-  - 🎨 交互式标注
-  - 💰 $7/月或$140 终身
-
-- [Snipaste][snipaste-link]
-  - 📸 简洁截图工具
-  - 📌 贴图功能
-  - 🆓 免费使用
-
-- [Kap][kap-link]
-  - 🎥 GIF 录制工具
-  - 🎨 简单易用
-  - 📦 开源免费
-
-- [KeyCastr][keycastr-link]
-  - ⌨️ 按键显示工具
-  - 🎯 录制演示必备
-  - 📦 开源免费
-
-- [OBS][obs-link]
-  - 🎥 专业录屏软件
-  - 🎬 直播推流
-  - 📦 开源免费
-
-- [IINA][iina-link]
-  - 🎬 现代视频播放器
-  - 🎨 界面美观
-  - 📦 开源免费
+  - 🔥🔥🔥 强烈推荐
+  - 全能截图工具
+  - 支持 GIF 录制
+  - OCR 文字识别
+  - 丰富标注功能
 
 - [Downie][downie-link]
-  - 📥 视频下载工具
-  - 🌐 支持多平台
-  - ✨ 提供试用
+  - 🔥 推荐
+  - 视频下载工具
+  - 支持多平台
+  - 提供试用
+  - 视频下载工具
+  - 支持多平台
+  - 提供试用
+
+- [MotionShot][motionshot-link]
+  - 专业演示录制
+  - 交互式标注
+  - $7/月或$140 终身
+
+- [Kap][kap-link]
+  - GIF 录制工具
+  - 简单易用
+  - 开源免费
+
+- [KeyCastr][keycastr-link]
+  - 按键显示工具
+  - 录制演示必备
+  - 开源免费
+
+- [OBS][obs-link]
+  - 专业录屏软件
+  - 直播推流
+  - 开源免费
+
+- [IINA][iina-link]
+  - 现代视频播放器
+  - 界面美观
+  - 开源免费
+
+
 
 ### 日常效率
 - [Pastebot][pastebot-link]
-  - 📋 剪贴板管理
-  - 🔄 历史记录
-  - 💰 $13 终身授权
+  - 剪贴板管理
+  - 历史记录
+  - $13 终身授权
 
 - [CleanShot][cleanshot-link]
-  - 📸 专业截图工具
-  - 🎥 录屏功能
-  - 💰 $29 终身授权
+  - 专业截图工具
+  - 录屏功能
+  - $29 终身授权
 
 - [Setapp][setapp-link]
-  - 🎁 应用订阅合集
-  - ✨ 优质应用精选
-  - 💰 $10/月订阅
+  - 应用订阅合集
+  - 优质应用精选
+  - $10/月订阅
 
 <div align="right">
 
@@ -324,7 +298,7 @@
 
 <br>
 
-## 🌐 网站系列 - 一键生成网站
+## 网站系列 - 一键生成网站
 
 <div align="center">
 
@@ -333,34 +307,34 @@
 </div>
 
 - [v0.dev][v0-link]
-  - ⏱️ 耗时：2分钟
-  - 🎯 特点：最快无水印
-  - 💰 价格：免费
-  - 🔍 演示：[查看][v0-demo-link]
+  - 耗时：2分钟
+  - 特点：最快无水印
+  - 价格：免费
+  - 演示：[查看][v0-demo-link]
 
 - [lovable][lovable-link]
-  - ⏱️ 耗时：3分钟
-  - 🎯 特点：最好看
-  - 💰 价格：免费
-  - 🔍 演示：[查看][lovable-demo-link]
+  - 耗时：3分钟
+  - 特点：最好看
+  - 价格：免费
+  - 演示：[查看][lovable-demo-link]
 
 - [bolt.new][bolt-link]
-  - ⏱️ 耗时：3分钟
-  - 🎯 特点：体验好
-  - 💰 价格：免费
-  - 🔍 演示：[查看][bolt-demo-link]
+  - 耗时：3分钟
+  - 特点：体验好
+  - 价格：免费
+  - 演示：[查看][bolt-demo-link]
 
 - [heyboss][heyboss-link]
-  - ⏱️ 耗时：12分钟
-  - 🎯 特点：送$10
-  - 💰 价格：免费
-  - 🔍 演示：[查看][heyboss-demo-link]
+  - 耗时：12分钟
+  - 特点：送$10
+  - 价格：免费
+  - 演示：[查看][heyboss-demo-link]
 
 - [replit][replit-link]
-  - ⏱️ 耗时：4分钟
-  - 🎯 特点：$25/月额度
-  - 💰 价格：需绑卡
-  - 🔍 演示：-
+  - 耗时：4分钟
+  - 特点：$25/月额度
+  - 价格：需绑卡
+  - 演示：-
 
 <div align="right">
 
