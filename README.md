@@ -30,6 +30,10 @@
 - [🤖 大语言模型](#-大语言模型)
   - [模型对比与排名](#-chatbot-arena-实时排行)
 - [🗣️ TTS](#-tts)
+  - [商业 TTS 服务（英文 + 多语言）](#-商业-tts-服务英文--多语言)
+  - [优秀中文 TTS 服务](#-优秀中文-tts-服务)
+  - [开源/自部署 TTS（中英文混合）](#-开源自部署-tts中英文混合)
+  - [功能对比表（中英文 TTS）](#-功能对比表中英文-tts)
 - [💻 代码](#-代码)
   - [IDE](#ide)
   - [命令行终端](#命令行终端)
@@ -90,6 +94,7 @@
 <br>
 
 ## 🗣️ TTS
+
 <div align="center">
 
 ![tts.jpg](./assets/jpg/tts.jpg)
@@ -100,128 +105,135 @@
 ### 🏢 商业 TTS 服务（英文 + 多语言）
 
 #### 1. [Microsoft Azure TTS](https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/)
-- ✅ 多语言高保真语音（中文支持极佳）
-- ✅ 支持 SSML 控制、情绪语调、流式播放
-- ✅ 免费 5M 字符/月（前 12 个月）
+- 多语言语音合成服务
+- 支持 SSML 控制、情绪语调、流式播放
+- 免费 5M 字符/月（前 12 个月）
 
 #### 2. [Google Cloud TTS](https://cloud.google.com/text-to-speech)
-- ✅ WaveNet / Neural2 语音，高自然度
-- ✅ 支持中文普通话和台语，声音种类丰富
-- ✅ 免费 4M 字符/月（前 12 个月）
+- WaveNet / Neural2 语音技术
+- 支持中文普通话和台语，多种声音选择
+- 免费 4M 字符/月（前 12 个月）
 
 #### 3. [Amazon Polly](https://aws.amazon.com/polly/)
-- ✅ 稳定、可部署在 AWS 各产品中
-- ✅ 多语言、支持 Speech Marks（断句）
-- ✅ 免费 5M 字符/月（前 12 个月）
+- 可部署在 AWS 各产品中
+- 支持多语言、Speech Marks（断句）
+- 免费 5M 字符/月（前 12 个月）
 
 #### 4. [IBM Watson TTS](https://www.ibm.com/cloud/watson-text-to-speech)
-- ✅ 多语种中规中矩，适合企业内嵌产品
-- ✅ 商业定价合理，稳定可靠
+- 支持多语种语音合成
+- 提供企业级服务
 
 #### 5. [ElevenLabs](https://elevenlabs.io/)
-- ✅ 音色极其自然，支持情绪变化与角色风格
-- ✅ 英文最强，中文支持中等，支持语音克隆
-- ✅ 免费试用，支持流式播放 API
+- 支持情绪变化与角色风格
+- 提供英文和中文语音合成
+- 支持语音克隆和流式播放 API
 
 #### 6. [PlayHT](https://play.ht/)
-- ✅ 清晰流畅，支持 Web 端流式 TTS
-- ✅ 有免费层（注册后获取 token）
+- Web 端流式 TTS 服务
+- 提供免费使用额度
 
 #### 7. [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech)
-- ✅ 语音自然，支持 Whisper 语音识别对接
-- ❌ 目前中文支持较弱
+- 支持 Whisper 语音识别对接
+- 中文支持待完善
 
 #### 8. [Deepgram](https://deepgram.com/product/text-to-speech)
-- ✅ 实时流式 TTS，延迟低
-- ✅ 支持多种语言和声音风格
-- ✅ 提供免费试用额度
+- 实时流式语音合成
+- 支持多语言和声音风格
+- 提供试用额度
 
 #### 9. [Neuphonic](https://neuphonic.ai)
-- ✅ 支持多语言、多音色、多情绪
-- ✅ 提供 API 和 SDK 集成
-- ✅ 有免费试用额度
+- 多语言语音合成服务
+- 提供 API 和 SDK
+- 有免费试用
 
 #### 10. [Murf AI](https://murf.ai/)
-- ✅ 专业级配音和画外音制作
-- ✅ 支持 120+ 种声音和 20+ 种语言
-- ✅ 提供免费试用
+- 配音和画外音制作工具
+- 支持 120+ 种声音和 20+ 种语言
+- 提供试用版本
 
 #### 11. [Resemble AI](https://www.resemble.ai/)
-- ✅ 高度自然的语音克隆技术
-- ✅ 支持实时语音合成
-- ✅ 企业级 API 服务
+- 语音克隆技术
+- 实时语音合成
+- 企业级 API 服务
 
 <br>
 
-### 🇨🇳 优秀中文 TTS 服务
+### 🇨🇳 中文 TTS 服务
 
 #### 1. [iFlytek 科大讯飞](https://www.xfyun.cn/services/online_tts)
-- ✅ 地表最强中文 TTS，情绪语调、音色多样
-- ✅ 支持流式推理、自定义音色、音色克隆
-- ✅ 广泛应用于教育、客服、阅读等场景
+- 中文语音合成服务
+- 支持流式合成、自定义音色、音色克隆
+- 应用于教育、客服、阅读等场景
 
 #### 2. [Baidu TTS](https://ai.baidu.com/tech/speech/tts)
-- ✅ 支持离线 SDK 与云调用，音色稳健
-- ✅ 语音合成准确，适合企业级语音交互
+- 提供离线 SDK 与云服务
+- 面向企业级语音交互应用
 
 #### 3. [MiniMax TTS](https://blog.fal.ai/minimax-text-to-speech-models-now-available-on-fal/)
-- ✅ 语速快，延迟低，实时响应
-- ✅ 多语言音色支持，适合 AI Agent 场景
+- 实时语音合成服务
+- 支持多语言音色
+- 适用于 AI Agent 场景
 
 #### 4. ByteDance（字节跳动）SeedTTS / MegaTTS3
-- ✅ 中文表现优异，音色高度真实
-- ✅ 支持语音克隆、多情绪表达，主要用于内部产品（抖音、剪映）
+- 内部语音合成技术
+- 支持语音克隆和情绪表达
+- 用于公司产品（抖音、剪映）
 
 #### 5. [Cartesia Sonic TTS](https://cartesia.ai/product/text-to-speech-tts)
-- ✅ 延迟低（40ms），可控性强，3秒音色克隆
-- ✅ 上下文理解力强，适合医疗、客服等领域
+- 低延迟语音合成
+- 支持音色克隆
+- 适用于医疗、客服等领域
 
 #### 6. [Fish Speech](https://github.com/fishaudio/fish-speech)
-- ✅ 开源中文语音合成系统
-- ✅ 支持多语言、音色克隆
-- ✅ 流式推理，易于部署
+- 开源语音合成系统
+- 支持多语言和音色克隆
+- 提供流式推理
 
 #### 7. [CosyVoice (阿里巴巴)](https://github.com/FunAudioLLM/CosyVoice)
-- ✅ 开源多语言语音合成系统
-- ✅ 支持情感语调、多语种训练
-- ✅ 轻量化部署，流式推理
+- 开源多语言语音合成系统
+- 支持情感语调和多语种
+- 轻量化部署方案
 
 #### 8. [火山引擎 TTS](https://www.volcengine.com/product/speech-tech)
-- ✅ 支持中英文双语、多音色
-- ✅ 提供流式合成和离线 SDK
-- ✅ 企业级服务支持
+- 中英文双语支持
+- 提供流式合成和离线 SDK
+- 企业级服务
 
 <br>
 
-### 🔓 开源/自部署 TTS（中英文混合）
+### 🔓 开源/自部署 TTS 方案
 
 #### 1. [Fish Speech](https://github.com/fishaudio/fish-speech)
-- ✅ 支持中文、英文、日文、德文等 8 种语言
-- ✅ 支持音色克隆，开箱即用，可部署流式播放
+- 支持 8 种语言
+- 提供音色克隆功能
+- 支持流式播放部署
 
 #### 2. [CosyVoice (阿里)](https://github.com/FunAudioLLM/CosyVoice)
-- ✅ 支持中文/英文/日语等，情感语调、多语种训练
-- ✅ 支持流式推理、轻量化部署
+- 多语言支持
+- 提供流式推理
+- 轻量化部署方案
 
 #### 3. [Coqui TTS](https://github.com/coqui-ai/TTS)
-- ✅ 支持中文模型（需配置），多语种开源支持
-- ✅ 可自训练/微调，社区活跃，语音质量稳定
+- 支持中文模型配置
+- 可进行模型训练和微调
+- 开源社区维护
 
 #### 4. [Mimic (Mycroft AI)](https://github.com/MycroftAI/mimic1)
-- ✅ 轻量语音合成器，适用于嵌入式、对话系统
+- 轻量级语音合成系统
+- 适用于嵌入式设备
 
 #### 5. [Bark (by Suno)](https://github.com/suno-ai/bark)
-- ✅ 多模态输出（语音、语气、非语言元素）
-- ⚠️ 生成延迟高，不支持流式
+- 支持多模态输出
+- 非流式生成模式
 
 #### 6. [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)
-- ✅ 高质量朗读级语音，适合播客/视频
-- ❌ 非实时，生成速度慢
+- 高质量语音合成
+- 非实时生成模式
 
 #### 7. [VITS](https://github.com/jaywalnut310/vits)
-- ✅ 端到端语音合成模型
-- ✅ 支持多语言训练
-- ✅ 社区活跃，有多个改进版本
+- 端到端语音合成
+- 支持多语言训练
+- 社区持续改进
 
 <br>
 
