@@ -680,31 +680,6 @@ https://web.lmarena.ai/leaderboard
 
 <br>
 
-## 恶搞系列
-
-<div align="center">
-
-![prank.jpg](./assets/jpg/prank.jpg)
-
-</div>
-
-<details>
-<summary><b>查看详细内容</b></summary>
-
-- NaaS - No as a Service
-  - 亮点
-    - 🧱 它不提供服务
-    - 🛑 它不解决问题
-    - 🚫 它什么也不做
-  - 然而，它非常认真地构建了一个完整的 CI/CD 流水线，只为上线一个……啥也不干的服务，天才恶搞！👀
-  - Github 1: [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
-  - Github 2: [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service)
-  - 价格：免费
-
-</details>
-
-<br>
-
 ## 📚 学习系列
 
 <div align="center">
@@ -726,12 +701,6 @@ https://web.lmarena.ai/leaderboard
 
 </div>
 
-## 点🌟收藏
-
-[![Star History Chart](https://api.star-history.com/svg?repos=cyfyifanchen/one-person-company&type=Date)](https://www.star-history.com/#cyfyifanchen/one-person-company&Date)
-
-
-*注：价格和功能信息仅供参考，请以官方网站为准。*
 
 <!-- Shields -->
 [back-to-top]: https://img.shields.io/badge/-Back_to_top-gray?style=flat-square
