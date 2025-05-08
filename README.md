@@ -255,6 +255,13 @@ https://web.lmarena.ai/leaderboard
 - 支持多语言训练
 - 社区持续改进
 
+#### 8. VoiceCanvas
+- 支持 50+ 种语言和方言的文本转语音，提供多种男声和女声选择
+- 个性化声音克隆：仅需 10 秒音频样本即可创建专属 AI 声音，支持跨语言使用
+- 高级功能：语速调节、音频可视化、逐字朗读模式、一键下载音频文件
+- 灵活的订阅计划：免费试用、按月/按年订阅、按量付费选项
+- 支持自部署，代码 100% 开源，适合开发者和内容创作者使用
+
 <br>
 
 ### 📊 功能对比表（中英文 TTS）
@@ -314,6 +321,64 @@ https://web.lmarena.ai/leaderboard
     - AI 增强终端
     - 提供免费额度
 
+### 代码理解与文档
+- [Deepwiki.com](http://Deepwiki.com)
+  - 📝 自动为你的代码生成技术文档、函数说明、API 注释
+  - 🧠 支持自然语言提问，理解代码上下文含义
+  - 🧩 可生成"项目百科"，结构清晰、层级分明
+  - 🕵️ 适合快速上手新项目、提升文档覆盖率
+  - 🔒 支持私有仓库，数据安全
+
+- [gitsummarize](https://github.com/antarixxx/gitsummarize)
+  - 📄 架构级概览
+  - 📁 目录 & 文件总结
+  - 🧠 用自然语言解释代码目的、流程与结构
+  - 🔗 提取业务逻辑与规则
+  - 📊 自动绘制架构图与流程图
+
+- [gitdiagram.com](https://gitdiagram.com)
+  - 🧠 支持大型代码仓库的全局理解
+  - 🏗️ 可视化展示文件结构、模块依赖、函数关系
+  - 🔍 点击任意节点即可查看源码详情
+  - 🤝 支持团队共享与嵌入文档
+  - 🚀 极简输入 GitHub 链接即可开始分析
+
+### 全栈开发与快速构建
+- [Tempo](https://tempo.new)
+  - 后端 + 前端 + Auth + 支付
+- [Chef](https://chef.convex.dev)
+  - 后端 + 前端 + Auth
+- [Vibe Code App](https://apps.apple.com/us/app/vibecode/id6742912146)
+  - App
+- [v0](https://v0.dev)
+  - 前端/Apps/Games
+- [Bolt](https://bolt.new)
+  - 前端/Apps/Games
+- [Lovable](https://lovable.dev)
+  - 前端/Apps/Games
+- [Firebase Studio](https://firebase.google.com)
+  - 前端/Apps/Games
+- [Devin](https://devin.ai)
+  - 前端/Apps/Games
+- [HeyBoss](https://heybossai.com)
+  - 前端/Apps/Games
+- [Replit](https://replit.com)
+  - 前端/Apps/Games
+- [Same](https://same.dev)
+  - 前端/Apps/Games
+- [a0](https://a0.dev)
+  - 前端/Apps/Games
+- [Vibe Coder](https://vibecoder.gg)
+  - 前端/Apps/Games
+- [ShipAny](https://shipany.ai)
+  - 前端/Apps/Games
+- [CopyWeb](https://copyweb.ai)
+  - 前端/Apps/Games
+- [Seede](https://seede.ai)
+  - 前端/Apps/Games
+- [Magic Patterns](https://magicpatterns.com)
+  - AI 原型设计平台，用于产品团队快速构建原型、获取用户反馈并进行数据驱动决策。
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -343,6 +408,7 @@ https://web.lmarena.ai/leaderboard
 | 工具 | 特点 | 定价 |
 |------|------|------|
 | [Relume][relume-link] | 一句话生成完整网站<br>与 Figma 无缝集成 | 绑卡免费 30 天 |
+| [Finisher](https://finisher.co/lab/header/) | AI 生成沉浸式网页头图<br>多种风格模板可选<br>自动适配文案、CTA、背景图<br>即用即改，适合开发者、设计师、创作者 | 免费 |
 
 ### 3D 设计
 | 工具 | 特点 | 定价 |
@@ -435,6 +501,11 @@ https://web.lmarena.ai/leaderboard
   - 交互式标注
   - $7/月或$140 终身
 
+- [Cap](https://cap.so)
+  - 开源 Loom 替代品
+  - 屏幕录制与分享
+  - [GitHub](https://github.com/CapSoftware/Cap)
+
 - [Kap][kap-link]
   - GIF 录制工具
   - 简单易用
@@ -455,6 +526,13 @@ https://web.lmarena.ai/leaderboard
   - 界面美观
   - 开源免费
 
+- [Youtube Music 桌面端](https://github.com/th-ch/youtube-music)
+  - 支持背景播放（王炸功能）
+  - 内置 ad blocker 所以没广告
+  - 内置下载器，支持离线下载
+  - 跨平台，支持插件系统，很多插件
+  - 免费
+
 
 
 ### 日常效率
@@ -472,6 +550,13 @@ https://web.lmarena.ai/leaderboard
   - 应用订阅合集
   - 优质应用精选
   - $10/月订阅
+
+- [Toolfolio](https://toolfolio.io)
+  - 精选工具集合：平台精心挑选并分类整理了各类高质量工具，方便用户快速找到所需资源。
+  - 多平台资源支持：提供适用于 Figma、Framer、Webflow 等平台的 UI 组件、模板和插件，助力设计与开发工作流。
+  - AI 与自动化工具：涵盖视频生成、写作辅助、语音识别等 AI 工具，提升内容创作效率。
+  - 定期更新与推荐：平台持续更新工具库，并通过博客和新闻通讯分享最新的工具和资源。
+  - 免费
 
 <div align="right">
 
@@ -525,6 +610,25 @@ https://web.lmarena.ai/leaderboard
 [![][back-to-top]](#readme-top)
 
 </div>
+
+<br>
+
+## 恶搞系列
+
+<div align="center">
+
+
+</div>
+
+- NaaS - No as a Service
+  - 亮点
+    - 🧱 它不提供服务
+    - 🛑 它不解决问题
+    - 🚫 它什么也不做
+  - 然而，它非常认真地构建了一个完整的 CI/CD 流水线，只为上线一个……啥也不干的服务，天才恶搞！👀
+  - Github 1: [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
+  - Github 2: [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service)
+  - 价格：免费
 
 <br>
 
@@ -626,4 +730,6 @@ https://web.lmarena.ai/leaderboard
 [fiverr-link]: https://www.fiverr.com/categories/graphics-design/creative-logo-design
 [vscode-link]: https://code.visualstudio.com
 [windsurf-link]: https://www.windsurfapp.com
+[cap-link]: https://cap.so
+[cap-github-link]: https://github.com/CapSoftware/Cap
 
