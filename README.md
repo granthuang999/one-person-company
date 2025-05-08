@@ -28,30 +28,29 @@
   ### 目录
 
 - [🤖 大语言模型](#-大语言模型)
-  - [模型对比与排名](#-chatbot-arena-实时排行)
+  - [店长推荐 TOP3](#-店长推荐-top3)
+  - [查看详细内容](#)
 - [🎙️ TTS](#️-tts)
-  - [商业 TTS 服务（英文 + 多语言）](#-商业-tts-服务英文--多语言)
-  - [优秀中文 TTS 服务](#-优秀中文-tts-服务)
-  - [开源/自部署 TTS（中英文混合）](#-开源自部署-tts中英文混合)
-  - [功能对比表（中英文 TTS）](#-功能对比表中英文-tts)
+  - [店长推荐 TOP3](#-店长推荐-top3-1)
+  - [查看详细内容](#)
 - [💻 代码](#-代码)
-  - [IDE](#ide)
-  - [命令行终端](#命令行终端)
+  - [店长推荐 TOP3](#-店长推荐-top3-2)
+  - [查看详细内容](#)
+  - [全栈开发与快速构建](#全栈开发与快速构建)
+  - [代码理解与文档](#代码理解与文档)
 - [🎨 设计工具](#-设计工具)
-  - [全能设计](#全能设计)
-  - [运营设计](#运营设计)
-  - [网站设计](#网站设计)
-  - [3D 设计](#3d-设计)
-  - [动态设计](#动态设计)
-  - [工作流设计](#工作流设计)
-  - [Logo 设计](#logo-设计)
+  - [店长推荐 TOP3](#-店长推荐-top3-3)
+  - [查看详细内容](#)
 - [⚙️ 生产力工具](#-生产力工具)
-  - [系统增强](#系统增强)
-  - [媒体工具](#媒体工具)
-  - [日常效率](#日常效率)
-- [🌐 网站系列](#-网站系列---一键生成网站)
-  - [一键生成网站](#-网站系列---一键生成网站)
+  - [店长推荐 TOP3](#-店长推荐-top3-4)
+  - [查看详细内容](#)
+- [🌐 网站系列](#网站系列---一键生成网站)
+  - [店长推荐 TOP3](#-店长推荐-top3-5)
+  - [查看详细内容](#)
+- [👻 恶搞系列](#恶搞系列)
+  - [查看详细内容](#)
 - [📚 学习系列](#-学习系列)
+  - [查看详细内容](#)
 - [点🌟收藏](#点收藏)
 
 </details>
@@ -65,6 +64,16 @@
 ![llm.jpg](./assets/jpg/llm.jpg)
 
 </div>
+
+### 🏆 店长推荐 TOP3
+| 模型 | 特点 | 排名 |
+|------|------|------|
+| [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |
+| [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |
+| [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 在日常使用中，我会经常切换不同的大语言模型来获取更全面的答案。目前我主要使用 Claude 3.7 Sonnet 和 Gemini 2.5 Pro，这两个模型在各方面都表现出色。当遇到需要进一步验证的问题时，我也会使用 DeepSeek 和 Grok 来交叉对比，以获得更准确的答案。
 
@@ -103,6 +112,7 @@ https://web.lmarena.ai/leaderboard
 | [o1-preview (OpenAI?)](https://openai.com/) | 🏅 #11                    | [LMArena](https://web.lmarena.ai/leaderboard) |
 | [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 🏅 #22                    | [LMArena](https://web.lmarena.ai/leaderboard) |
 
+</details>
 
 
 <div align="right">
@@ -121,6 +131,15 @@ https://web.lmarena.ai/leaderboard
 
 </div>
 
+### 🏆 店长推荐 TOP3
+| 服务 | 特点 | 价格 |
+|------|------|------|
+| [Microsoft Azure TTS](https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/) | 多语言支持、情感语调强大、流式播放 | 免费 5M 字符/月（前 12 个月） |
+| [iFlytek 科大讯飞](https://www.xfyun.cn/services/online_tts) | 中文语音第一、多场景支持、音色丰富 | ¥0.2/千字符 |
+| [ElevenLabs](https://elevenlabs.io/) | 角色感强、音质好、支持情绪变化 | $11/百万字符起 |
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 ### 🏢 商业 TTS 服务（英文 + 多语言）
 
@@ -286,7 +305,7 @@ https://web.lmarena.ai/leaderboard
 | Tortoise TTS    | ✅    | ✅✅  | ❌   | ✅   | ✅   | 高质量非实时输出     | 波动 |
 | VITS            | ✅    | ✅    | ⚠️   | ✅   | ✅   | 端到端训练           | 波动 |
 
-<br>
+</details>
 
 
 <div align="right">
@@ -303,6 +322,16 @@ https://web.lmarena.ai/leaderboard
 ![code.jpg](./assets/jpg/code.jpg)
 
 </div>
+
+### 🏆 店长推荐 TOP3
+| 工具 | 特点 | 价格 |
+|------|------|------|
+| [Cursor](https://cursor.com) | AI 辅助开发、代码补全、上下文理解强 | 基础功能免费 |
+| [Deepwiki.com](http://Deepwiki.com) | 自动生成代码文档、理解项目结构、支持私有仓库 | 免费 |
+| [Tempo](https://tempo.new) | 快速构建全栈项目、支持后端+前端+Auth+支付 | 免费 |
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 - **IDE**
   - [TRAE][trae-link]
@@ -379,6 +408,8 @@ https://web.lmarena.ai/leaderboard
 - [Magic Patterns](https://magicpatterns.com)
   - AI 原型设计平台，用于产品团队快速构建原型、获取用户反馈并进行数据驱动决策。
 
+</details>
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -393,6 +424,16 @@ https://web.lmarena.ai/leaderboard
 ![design.jpg](./assets/jpg/design.jpg)
 
 </div>
+
+### 🏆 店长推荐 TOP3
+| 工具 | 特点 | 价格 |
+|------|------|------|
+| [Recraft.ai](https://www.recraft.ai) | 全能设计神器、支持Logo、图片、MockUp、Banner、提供模板和风格定制 | 每天免费 100 次生成额度 |
+| [Canva](https://www.canva.com) | 海量模板一键修改、支持文档/白板/社媒/视频等多种格式 | 绑卡免费 30 天 |
+| [Finisher](https://finisher.co/lab/header/) | AI 生成沉浸式网页头图、多种风格模板、一键适配 | 免费 |
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 ### 全能设计
 | 工具 | 特点 | 定价 |
@@ -438,6 +479,8 @@ https://web.lmarena.ai/leaderboard
 | [LogoPony][logopony-link] | 风格多样 | 免费试用 |
 | [Looka][looka-link] | 品牌套件 | 免费试用 |
 
+</details>
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -454,6 +497,16 @@ https://web.lmarena.ai/leaderboard
 ![productivity.jpg](./assets/jpg/productivity.jpg)
 
 </div>
+
+### 🏆 店长推荐 TOP3
+| 工具 | 特点 | 价格 |
+|------|------|------|
+| [Raycast](https://www.raycast.com) | 高效启动器、工作流自动化、丰富插件 | 基础功能免费 |
+| [PixPin](https://pixpin.cn) | 全能截图工具、OCR识别、录屏功能 | 免费 |
+| [Karabiner](https://karabiner-elements.pqrs.org) | 键盘自定义神器、改键完全控制 | 开源免费 |
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 ### 系统增强
 - [Raycast][raycast-link]
@@ -558,6 +611,8 @@ https://web.lmarena.ai/leaderboard
   - 定期更新与推荐：平台持续更新工具库，并通过博客和新闻通讯分享最新的工具和资源。
   - 免费
 
+</details>
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -574,6 +629,16 @@ https://web.lmarena.ai/leaderboard
 ![website.jpg](./assets/jpg/website.jpg)
 
 </div>
+
+### 🏆 店长推荐 TOP3
+| 工具 | 特点 | 价格 |
+|------|------|------|
+| [v0.dev](https://v0.dev) | 最快无水印、即时预览 | 免费 |
+| [Lovable](https://lovable.dev) | 设计最好看、易于定制 | 免费 |
+| [bolt.new](https://bolt.new) | 用户体验好、交互流畅 | 免费 |
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 - [v0.dev][v0-link]
   - 耗时：2分钟
@@ -605,6 +670,8 @@ https://web.lmarena.ai/leaderboard
   - 价格：需绑卡
   - 演示：-
 
+</details>
+
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -617,8 +684,12 @@ https://web.lmarena.ai/leaderboard
 
 <div align="center">
 
+![prank.jpg](./assets/jpg/prank.jpg)
 
 </div>
+
+<details>
+<summary><b>查看详细内容</b></summary>
 
 - NaaS - No as a Service
   - 亮点
@@ -630,18 +701,24 @@ https://web.lmarena.ai/leaderboard
   - Github 2: [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service)
   - 价格：免费
 
+</details>
+
 <br>
 
 ## 📚 学习系列
 
 <div align="center">
 
-![learn.jpg](./assets/jpg/learning.jpg)
+![learning.jpg](./assets/jpg/learning.jpg)
 
 </div>
 
+<details>
+<summary><b>查看详细内容</b></summary>
+
  *coming soon*
 
+</details>
 
 <div align="right">
 
