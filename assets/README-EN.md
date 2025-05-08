@@ -237,7 +237,7 @@ Testing prompt: "Create a beautiful SAAS landing page"
 [license-shield]: https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
 [license-link]: https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE
 [cn-shield]: https://img.shields.io/badge/中文-README-orange?style=for-the-badge&logo=markdown&logoColor=white
-[cn-link]: ./README.md
+[cn-link]: ./../README.md
 
 <!-- Tool Links -->
 [grok-link]: http://Grok.com
