@@ -22,7 +22,7 @@
 
 <br>
 
-<details open>
+<details>
   <summary><kbd>目录</kbd></summary>
 
   ### 目录
@@ -512,6 +512,8 @@ https://web.lmarena.ai/leaderboard
 | [PixPin](https://pixpin.cn) | 全能截图工具、OCR识别、录屏功能 | 免费 |
 | [Karabiner](https://karabiner-elements.pqrs.org) | 键盘自定义神器、改键完全控制 | 开源免费 |
 
+<br>
+
 <details>
 <summary><b>查看详细内容</b></summary>
 
@@ -696,18 +698,18 @@ https://web.lmarena.ai/leaderboard
 
 </div>
 
-<details>
-<summary><b>查看详细内容</b></summary>
 
- *coming soon*
 
-</details>
+<br>
 
 <div align="right">
 
 [![][back-to-top]](#readme-top)
 
 </div>
+
+
+<br>
 
 ## 恶搞系列
 
@@ -749,7 +751,7 @@ https://web.lmarena.ai/leaderboard
 [license-shield]: https://img.shields.io/github/license/cyfyifanchen/one-person-company?style=flat-square&logo=github&color=FFD700&logoColor=white&logoBackground=FFA500
 [license-link]: https://github.com/cyfyifanchen/one-person-company/blob/main/LICENSE
 [en-shield]: https://img.shields.io/badge/English-README-orange?style=for-the-badge&logo=markdown&logoColor=white
-[en-link]: ./README-EN.md
+[en-link]: ./assets/README-EN.md
 
 <!-- Tool Links -->
 [grok-link]: http://Grok.com
