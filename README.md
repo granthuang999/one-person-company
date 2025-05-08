@@ -47,11 +47,10 @@
 - [🌐 网站系列](#网站系列---一键生成网站)
   - [店长推荐 TOP3](#-店长推荐-top3-5)
   - [查看详细内容](#)
-- [👻 恶搞系列](#恶搞系列)
-  - [查看详细内容](#)
 - [📚 学习系列](#-学习系列)
   - [查看详细内容](#)
-- [点🌟收藏](#点收藏)
+- [👻 恶搞系列](#恶搞系列)
+  - [查看详细内容](#)
 
 </details>
 
@@ -71,6 +70,8 @@
 | [Claude 3.7 Sonnet (Anthropic)](https://www.anthropic.com/) | 多功能通用、知识更新快 | WebDev Arena 🥇 #1 |
 | [Gemini-2.5-Pro (Google)](https://deepmind.google/technologies/gemini/) | 逻辑推理强、支持多模态 | WebDev Arena 🥈 #2 |
 | [DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/) | 开发能力优秀、代码质量高 | WebDev Arena 🏅 #4 |
+
+<br>
 
 <details>
 <summary><b>查看详细内容</b></summary>
@@ -137,6 +138,8 @@ https://web.lmarena.ai/leaderboard
 | [Microsoft Azure TTS](https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/) | 多语言支持、情感语调强大、流式播放 | 免费 5M 字符/月（前 12 个月） |
 | [iFlytek 科大讯飞](https://www.xfyun.cn/services/online_tts) | 中文语音第一、多场景支持、音色丰富 | ¥0.2/千字符 |
 | [ElevenLabs](https://elevenlabs.io/) | 角色感强、音质好、支持情绪变化 | $11/百万字符起 |
+
+<br>
 
 <details>
 <summary><b>查看详细内容</b></summary>
@@ -330,6 +333,8 @@ https://web.lmarena.ai/leaderboard
 | [Deepwiki.com](http://Deepwiki.com) | 自动生成代码文档、理解项目结构、支持私有仓库 | 免费 |
 | [Tempo](https://tempo.new) | 快速构建全栈项目、支持后端+前端+Auth+支付 | 免费 |
 
+<br>
+
 <details>
 <summary><b>查看详细内容</b></summary>
 
@@ -431,6 +436,8 @@ https://web.lmarena.ai/leaderboard
 | [Recraft.ai](https://www.recraft.ai) | 全能设计神器、支持Logo、图片、MockUp、Banner、提供模板和风格定制 | 每天免费 100 次生成额度 |
 | [Canva](https://www.canva.com) | 海量模板一键修改、支持文档/白板/社媒/视频等多种格式 | 绑卡免费 30 天 |
 | [Finisher](https://finisher.co/lab/header/) | AI 生成沉浸式网页头图、多种风格模板、一键适配 | 免费 |
+
+<br>
 
 <details>
 <summary><b>查看详细内容</b></summary>
@@ -637,6 +644,7 @@ https://web.lmarena.ai/leaderboard
 | [Lovable](https://lovable.dev) | 设计最好看、易于定制 | 免费 |
 | [bolt.new](https://bolt.new) | 用户体验好、交互流畅 | 免费 |
 
+<br>
 <details>
 <summary><b>查看详细内容</b></summary>
 
@@ -694,6 +702,32 @@ https://web.lmarena.ai/leaderboard
  *coming soon*
 
 </details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+## 恶搞系列
+
+<div align="center">
+
+
+</div>
+
+ NaaS - No as a Service
+  - 亮点
+    - 🧱 它不提供服务
+    - 🛑 它不解决问题
+    - 🚫 它什么也不做
+  - 然而，它非常认真地构建了一个完整的 CI/CD 流水线，只为上线一个……啥也不干的服务，天才恶搞！👀
+  - Github 1: [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)
+  - Github 2: [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service)
+  - 价格：免费
+
+
+<br>
 
 <div align="right">
 
@@ -778,4 +812,3 @@ https://web.lmarena.ai/leaderboard
 [windsurf-link]: https://www.windsurfapp.com
 [cap-link]: https://cap.so
 [cap-github-link]: https://github.com/CapSoftware/Cap
-
