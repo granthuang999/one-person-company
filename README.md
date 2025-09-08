@@ -1,26 +1,6 @@
-<div align="center"><a name="readme-top"></a>
+#AI 工具系列，有些工具是宝，有些工具是坑
 
-![One Person Company AI Tools](./assets/gif/banner-cape.gif)
 
-<h1>一人公司</h1>
-
-一人公司 AI 工具系列，有些工具是宝，有些工具是坑
-
-本 Repo 致力于帮您踩坑，精准找宝 🤩
-
-欢迎点🌟 | 收藏🔖 | 转发🫰
-
-[![GitHub stars][star-shield]][star-link]
-[![GitHub forks][fork-shield]][fork-link]
-[![GitHub issues][issue-shield]][issue-link]
-[![GitHub pull requests][pr-shield]][pr-link]
-[![GitHub license][license-shield]][license-link]
-
-[![English Version][en-shield]][en-link]
-
-</div>
-
-<br>
 
 <details>
   <summary><kbd>目录</kbd></summary>
